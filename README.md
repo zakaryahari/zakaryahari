@@ -15,7 +15,6 @@
   <img src="https://raw.githubusercontent.com/zakaryahari/zakaryahari/main/assets/hero.gif" width="720" alt="Hero GIF" />
 </p>
 
-
 ---
 
 ## 🔭 About me
@@ -56,6 +55,17 @@ I’m **Zakarya Hari**, a **Full-Stack Developer** with a focus on **WordPress, 
 ---
 
 ## 🔧 Tech & Skills
+<p align="center">
+  <!-- Logos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dolibarr.svg" alt="Dolibarr" width="40" height="40" />
+</p>
+
 **Frontend:** React, Next.js, Tailwind, HTML5, CSS3  
 **Backend:** Node.js, Express, PHP, Laravel, MySQL, MongoDB  
 **DevOps:** Docker, GitHub Actions, VPS Security, Linux (Debian/Kali)  
