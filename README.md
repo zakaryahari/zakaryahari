@@ -38,18 +38,13 @@ I’m **Zakarya Hari**, a **Full-Stack Developer** with a focus on **WordPress, 
 
 ## 💼 Recent Projects (2025)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="150" />&nbsp;
-
 ### 🌍 WordPress Websites
 - [WeSurfSkate Morocco](https://wesurfskatemorocco.com/) — Surf, skate & yoga camp booking.  
 - [Wave Chaser Morocco](https://wavechasermorocco.com/) — Surf coaching & tourism site.  
 - [Gonaji](https://gonaji.com/) — Professional online presence for creatives.  
 - [Tamrazen](https://tamrazen.com/) — Surf & skate camp in Morocco.  
 - [InticSolutions](https://inticsolutions.com/) — Digital services (CRM, Zoho, hosting).  
-<p align="center">
-  <!-- Logos -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dolibarr.svg" alt="Dolibarr" width="150" />&nbsp;
-</p>
+
 ### ⚙️ CRM Systems (Dolibarr)
 - [Eggdor Manager](https://eggdor.com/eggdormanager/) — VPS-hosted CRM for hospitality.  
 - [Biomanager](https://www.erabioenergy.com/biomanager) — CRM solution for renewable energy company.  
