@@ -1,5 +1,10 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Zakarya Hari — Full-Stack Developer</h1>
+
+<p align="center">
+  <img src="assets/avatar.svg" width="150" alt="Avatar" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20for%20work-0af" />&nbsp;
   <img src="https://img.shields.io/badge/Location-Morocco-005f73" />&nbsp;
@@ -9,6 +14,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/zakaryahari/zakaryahari/main/assets/hero.gif" width="720" alt="Hero GIF" />
 </p>
+
 
 ---
 
