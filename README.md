@@ -37,10 +37,9 @@ I’m **Zakarya Hari**, a **Full-Stack Developer** with a focus on **WordPress, 
 ---
 
 ## 💼 Recent Projects (2025)
-<p align="center">
-  <!-- Logos -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="150" />&nbsp;
-</p>
+
 ### 🌍 WordPress Websites
 - [WeSurfSkate Morocco](https://wesurfskatemorocco.com/) — Surf, skate & yoga camp booking.  
 - [Wave Chaser Morocco](https://wavechasermorocco.com/) — Surf coaching & tourism site.  
