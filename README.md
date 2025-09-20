@@ -1,75 +1,75 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Zakarya Hari — Full-Stack Developer</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20for%20work-0af" alt="Open for work" />&nbsp;
-  <img src="https://img.shields.io/badge/Location-Morocco-005f73" alt="location" />&nbsp;
-  <img src="https://img.shields.io/badge/Top%20Stack-React%20•%20Node%20•%20PHP-ff69b4" alt="stack" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20work-0af" />&nbsp;
+  <img src="https://img.shields.io/badge/Location-Morocco-005f73" />&nbsp;
+  <img src="https://img.shields.io/badge/Stack-React%20•%20Node%20•%20PHP-ff69b4" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-hero.gif" alt="Hero GIF" width="720" />
+  <img src="https://raw.githubusercontent.com/zakaryahari/zakaryahari/main/assets/hero.gif" width="720" alt="Hero GIF" />
 </p>
 
 ---
 
 ## 🔭 About me
-I’m **Zakarya Hari**, a **Full-Stack Developer** passionate about building performant, user-friendly applications and scalable backends.  
-I enjoy turning ideas into real-world digital products.
+I’m **Zakarya Hari**, a **Full-Stack Developer** with a focus on **WordPress, custom booking flows, VPS hosting, and CRM solutions**.  
 
-- 🔧 Tech: **React, Next.js, Node.js, Express, PHP, Laravel, WordPress, MySQL, Docker**  
-- 🧰 Tools: **Git, GitHub, Forminator, WP-CLI, VS Code, Figma**  
-- 🌱 Learning: **TypeScript, DevOps, Cloud Functions**  
-- 📫 Email: zakariahari42@gmail.com  
-- 🌍 Location: Agadir, Morocco
+- 🔧 Tech: React, Next.js, Node.js, PHP, Laravel, WordPress, MySQL, Docker  
+- 🧰 Tools: Git, GitHub, WP-CLI, Forminator, Figma  
+- 🌱 Learning: TypeScript & DevOps  
+- 🌍 Location: Agadir, Morocco  
+- 📫 Email: **zakariahari42@gmail.com**  
 
 ---
 
 ## 🧭 What I do
-- Create responsive apps (frontend + backend).  
-- Develop booking & e-commerce flows with dynamic pricing.  
-- Optimize websites for speed, SEO, and security.  
-- Build automation scripts and developer tools.
+- Build **WordPress websites** (custom themes, booking & e-commerce).  
+- Manage **Dolibarr CRM systems** for SMEs.  
+- Deploy & secure **VPS servers** (Namecheap + Contabo).  
+- Create automation scripts for system security & monitoring.  
 
 ---
 
-## ⭐ Highlights
-- Built custom booking forms for surf camps with dynamic pricing + email workflows.  
-- Secured VPS servers against malware and automated virus scans + email alerts.  
-- Experience in **print-on-demand (Redbubble, Merch by Amazon)** and digital marketing.  
+## 💼 Recent Projects (2025)
+### 🌍 WordPress Websites
+- [WeSurfSkate Morocco](https://wesurfskatemorocco.com/) — Surf, skate & yoga camp booking.  
+- [Wave Chaser Morocco](https://wavechasermorocco.com/) — Surf coaching & tourism site.  
+- [Gonaji](https://gonaji.com/) — Professional online presence for creatives.  
+- [Tamrazen](https://tamrazen.com/) — Surf & skate camp in Morocco.  
+- [InticSolutions](https://inticsolutions.com/) — Digital services (CRM, Zoho, hosting).  
+
+### ⚙️ CRM Systems (Dolibarr)
+- [Eggdor Manager](https://eggdor.com/eggdormanager/) — VPS-hosted CRM for hospitality.  
+- [Biomanager](https://www.erabioenergy.com/biomanager) — CRM solution for renewable energy company.  
+
+### ☁️ Hosting & VPS
+- Manage **Namecheap hosting** for clients.  
+- Deploy, configure & secure **Contabo VPS** with CyberPanel.  
 
 ---
 
 ## 🔧 Tech & Skills
-
-**Frontend:** React, Next.js, HTML5, CSS3, Tailwind, SSG/SSR  
+**Frontend:** React, Next.js, Tailwind, HTML5, CSS3  
 **Backend:** Node.js, Express, PHP, Laravel, MySQL, MongoDB  
-**DevOps:** Docker, GitHub Actions, Linux server hardening  
-**CMS:** WordPress (custom plugins, Forminator, BA Book Everything, WooCommerce)  
-**Other:** C, Java, SQL, REST, GraphQL  
-
----
-
-## 💼 Featured Projects
-
-- **Surf Camp Booking System** — Dynamic booking forms (periods, accommodation, pricing) with Forminator.  
-- **VPS Security Scripts** — Automating malware scans and email alerts on Contabo servers.  
-- **Full-Stack Portfolio** — Next.js + Node.js project showcasing my work.  
-- **POD Design Assets** — Print-on-demand pipeline & Redbubble storefront.
+**DevOps:** Docker, GitHub Actions, VPS Security, Linux (Debian/Kali)  
+**CMS:** WordPress (Forminator, custom plugins, WooCommerce), Dolibarr CRM  
+**Other:** C, Java, SQL, API integrations  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zakaryahari&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaryahari&layout=compact&theme=dark" />
 </p>
 
 ---
 
-## 📎 Contact & Hire me
+## 📎 Contact
 - 📧 **Email:** zakariahari42@gmail.com  
-- 📷 **Instagram:** [@karim_harmy](https://instagram.com/karim_harmy)  
-- 🌐 **Portfolio / Website:** https://wesurfskatemorocco.com  
+- 📷 **Instagram:** [@zakarya_hari](https://www.instagram.com/zakarya_hari/)  
+- 🌐 **Portfolio / Website:** [wesurfskatemorocco.com](https://wesurfskatemorocco.com/)  
 
 ---
 
