@@ -16,9 +16,13 @@
 </p>
 
 ---
+
+<!-- Banner -->
 <p align="center">
   <img src="assets/banner.png" alt="Banner" width="100%" />
 </p>
+
+
 ---
 ## 🔭 About me
 I’m **Zakarya Hari**, a **Full-Stack Developer** with a focus on **WordPress, custom booking flows, VPS hosting, and CRM solutions**.  
