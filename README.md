@@ -4,10 +4,26 @@
   Colors: midnight blue #0f172a · cyan #22d3ee · indigo #6366f1
 -->
 
-<div align="center">
+<p align="center">
+  <img src="assets/avatar.svg" width="150" alt="Avatar" />
+</p>
 
-  <img width="100%" alt="Zakarya Hari — Full-Stack Web and AI Developer" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,45:155E75,100:4F46E5&text=ZAKARYA%20HARI&fontColor=FFFFFF&fontSize=54&fontAlignY=40&desc=FULL-STACK%20WEB%20%26%20AI%20DEVELOPER&descSize=19&descAlignY=61&animation=fadeIn" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20for%20work-0af" />&nbsp;
+  <img src="https://img.shields.io/badge/Location-Morocco-005f73" />&nbsp;
+  <img src="https://img.shields.io/badge/Stack-React%20•%20Node%20•%20PHP-ff69b4" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zakaryahari/zakaryahari/main/assets/hero.gif" width="720" alt="Hero GIF" />
+</p>
+
+---
+
+<!-- Banner -->
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" />
+</p>
   <a href="https://git.io/typing-svg">
     <img alt="Developer headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+products+that+solve+real+problems;Full-Stack+Engineering+%C3%97+Artificial+Intelligence;From+business+requirements+to+deployment" />
   </a>
