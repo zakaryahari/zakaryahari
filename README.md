@@ -1,167 +1,152 @@
 <!--
-  Zakarya Hari — GitHub Profile README
-  Add this file to the root of your public repository: github.com/zakaryahari/zakaryahari
-  Colors: midnight blue #0f172a · cyan #22d3ee · indigo #6366f1
+  ZAKARYA HARI — GITHUB PROFILE
+  Editorial / midnight / cyan / indigo
+  Add README.md and the entire assets/ directory to github.com/zakaryahari/zakaryahari.
+  All custom graphics are vector SVG files included with this profile.
 -->
 
-<p align="center">
-  <img src="assets/avatar.svg" width="150" alt="Avatar" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20for%20work-0af" />&nbsp;
-  <img src="https://img.shields.io/badge/Location-Morocco-005f73" />&nbsp;
-  <img src="https://img.shields.io/badge/Stack-React%20•%20Node%20•%20PHP-ff69b4" />
-</p>
+<img src="./assets/hero.svg" alt="Zakarya Hari — Full-Stack Web and AI Developer" width="100%" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zakaryahari/zakaryahari/main/assets/hero.gif" width="720" alt="Hero GIF" />
-</p>
 
----
+<a href="https://zakaryahari.wuaze.com"><img src="https://img.shields.io/badge/PORTFOLIO-0B1529?style=for-the-badge&logo=googlechrome&logoColor=49E4EA" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/zakarya-hari/"><img src="https://img.shields.io/badge/LINKEDIN-0B1529?style=for-the-badge&logo=linkedin&logoColor=49E4EA" alt="LinkedIn" /></a>
+<a href="mailto:zakariahari42@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0B1529?style=for-the-badge&logo=gmail&logoColor=49E4EA" alt="Email" /></a>
+<a href="https://github.com/zakaryahari?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0B1529?style=for-the-badge&logo=github&logoColor=49E4EA" alt="Repositories" /></a>
 
-<!-- Banner -->
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
-</p>
-  <a href="https://git.io/typing-svg">
-    <img alt="Developer headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+products+that+solve+real+problems;Full-Stack+Engineering+%C3%97+Artificial+Intelligence;From+business+requirements+to+deployment" />
-  </a>
 
-  <p><strong>Morocco · Full-Stack Development · AI / Machine Learning · Business Solutions</strong></p>
 
-  <a href="https://zakaryahari.wuaze.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/zakarya-hari"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:zakariahari42@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20me-155E75?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3300&pause=850&color=49E4EA&center=true&vCenter=true&width=850&height=40&lines=Full-Stack+Engineering+%E2%9C%95+Artificial+Intelligence;Real+Clients+%E2%80%A2+Real+Products+%E2%80%A2+Real+Solutions;Laravel+%E2%80%A2+Vue.js+%E2%80%A2+Python+%E2%80%A2+Data" alt="Animated developer headline" />
+
+<sub><b>Based in Morocco</b> · Building applications, data solutions, and AI-driven experiences</sub>
 </div>
 
-01 · The developer behind the code
-I'm Zakarya Hari, a Full-Stack Web & AI Developer based in Morocco and studying at YouCode (UM6P), with an academic background in Business Intelligence and Statistics.
 
-I build more than interfaces: I work across backend architecture, databases, APIs, automation, deployment, and user-facing experiences. My experience includes commercial websites for clients, SaaS-style property management systems, data dashboards, and machine learning projects.
-My approach: Understand the problem → design a practical solution → build it cleanly → make it useful.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-  <strong>What I build</strong>
-  <ul>
-    <li>Full-stack web applications &amp; REST APIs</li>
-    <li>Booking platforms, CMS &amp; business tools</li>
-    <li>Multi-tenant systems &amp; database architectures</li>
-    <li>Dashboards, automations &amp; AI prototypes</li>
-  </ul>
-</td>
-<td width="50%" valign="top">
-  <strong>How I work</strong>
-  <ul>
-    <li>PHP / Laravel, Vue.js &amp; JavaScript</li>
-    <li>Python, SQL &amp; machine learning fundamentals</li>
-    <li>Git, Docker, Agile / Scrum &amp; Jira</li>
-    <li>From planning and implementation to deployment</li>
-  </ul>
-</td>
-</tr>
-</table>
-
-02 · Selected work
-<table>
-<tr>
-<td width="50%" valign="top">
-  <h3>🏄 WavePMS V2.0</h3>
-  <p><strong>Multi-tenant property management system</strong></p>
-  <p>Designed the database architecture and worked as Scrum Master on a PMS for surf camps, with a focus on tenant isolation and real business workflows.</p>
-  <p><code>Laravel 11</code> <code>PostgreSQL</code> <code>Vue.js</code> <code>Redis</code> <code>Alpine.js</code></p>
-  <sub>Client / professional project</sub>
-</td>
-<td width="50%" valign="top">
-  <h3>🎬 <a href="https://github.com/zakaryahari/Recommandation-de-Films-bas-sur-l-IA-K-Means-">AI Movie Recommendation</a></h3>
-  <p><strong>Recommendations through clustering</strong></p>
-  <p>Developed a film recommendation project that explores user preferences and movie similarities through unsupervised machine learning.</p>
-  <p><code>Python</code> <code>Scikit-learn</code> <code>K-Means</code> <code>Data Analysis</code></p>
-  <a href="https://github.com/zakaryahari/Recommandation-de-Films-bas-sur-l-IA-K-Means-"><strong>Explore repository →</strong></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3>🌊 <a href="https://github.com/zakaryahari/Projet-Fil-Rouge_WeSurfSkateYogaMorocco">WeSurfSkateYoga Morocco</a></h3>
-  <p><strong>Surf-school management platform</strong></p>
-  <p>A web solution designed to digitize activity management, bookings and availability for a surf, skate and yoga business.</p>
-  <p><code>Laravel</code> <code>PHP</code> <code>MySQL</code> <code>Web Development</code></p>
-  <a href="https://github.com/zakaryahari/Projet-Fil-Rouge_WeSurfSkateYogaMorocco"><strong>Explore repository →</strong></a>
-</td>
-<td width="50%" valign="top">
-  <h3>🌦️ <a href="https://github.com/zakaryahari/weather-risk-data-pipeline">Weather Risk Data Pipeline</a></h3>
-  <p><strong>Data engineering for logistics</strong></p>
-  <p>An automated Bronze / Silver / Gold data pipeline that computes weather-risk scores for logistics in Morocco.</p>
-  <p><code>Python</code> <code>Apache Airflow</code> <code>Docker</code> <code>Data Pipelines</code></p>
-  <a href="https://github.com/zakaryahari/weather-risk-data-pipeline"><strong>Explore repository →</strong></a>
-</td>
-</tr>
-</table>
-
-🌐 Websites & digital solutions for real clients
-Contributed to the development, optimization, and deployment of commercial websites during my work with InticSolutions.
-Website	Domain / focus
-WeSurfSkate Morocco	Surf, skate & yoga services
-SkateSurf Morocco	Surf & skate web presence
-Wave Chaser Morocco	Surf coaching & tourism
-Tamrazen	Surf camp & activities
-
-
-Also worked with: WordPress websites, Dolibarr-based CRM solutions, hosting and VPS deployments.
-03 · Technology stack
+<!-- INTRO: intentional brevity so the visual portfolio comes first -->
 <div align="center">
+
+01 / BEHIND THE CODE
+I turn business problems into reliable, useful software.
+
+Full-Stack Web & AI Developer at YouCode (UM6P) with hands-on experience in commercial websites, SaaS architecture, and data projects.
+
+BUILD · INTEGRATE · AUTOMATE · DEPLOY
+</div>
+
+
+<div align="center">
+
+02 / SELECTED PROJECTS
+<sub>Four projects. Four different kinds of engineering.</sub>
+
+
+
+<img src="./assets/project-wavepms.svg" alt="WavePMS V2.0 — multi-tenant property management with Laravel, PostgreSQL and Vue.js" width="100%" />
+
+<sub>Professional project · Multi-tenant architecture · Database design · Scrum Master</sub>
+
+
+
+<a href="https://github.com/zakaryahari/Recommandation-de-Films-bas-sur-l-IA-K-Means-"><img src="./assets/project-movie.svg" alt="AI Movie Recommendation using Python, Scikit-learn and K-Means" width="100%" /></a>
+
+<a href="https://github.com/zakaryahari/Recommandation-de-Films-bas-sur-l-IA-K-Means-"><img src="https://img.shields.io/badge/VIEW%20SOURCE-0F172A?style=flat-square&logo=github&logoColor=AC8EFF" alt="Movie recommendation source" /></a>
+
+
+
+<a href="https://github.com/zakaryahari/Projet-Fil-Rouge_WeSurfSkateYogaMorocco"><img src="./assets/project-surf.svg" alt="WeSurfSkateYoga Morocco — full-stack surf, skate and yoga management" width="100%" /></a>
+
+<a href="https://github.com/zakaryahari/Projet-Fil-Rouge_WeSurfSkateYogaMorocco"><img src="https://img.shields.io/badge/VIEW%20SOURCE-0F172A?style=flat-square&logo=github&logoColor=57E2AC" alt="WeSurfSkateYoga source" /></a>
+
+
+
+<a href="https://github.com/zakaryahari/weather-risk-data-pipeline"><img src="./assets/project-weather.svg" alt="Weather Risk Data Pipeline with Python, Apache Airflow and Docker" width="100%" /></a>
+
+<a href="https://github.com/zakaryahari/weather-risk-data-pipeline"><img src="https://img.shields.io/badge/VIEW%20SOURCE-0F172A?style=flat-square&logo=github&logoColor=FBB66A" alt="Weather pipeline source" /></a>
+</div>
+
+
+<div align="center">
+
+03 / WORK SHIPPED FOR CLIENTS
+<img src="./assets/client-work.svg" alt="Commercial projects: WeSurfSkate Morocco, SkateSurf Morocco, Wave Chaser Morocco, Tamrazen" width="100%" />
+
+
+<a href="https://wesurfskatemorocco.com"><img src="https://img.shields.io/badge/WeSurfSkate-Visit-0C2938?style=for-the-badge&logo=googlechrome&logoColor=49E4EA" alt="WeSurfSkate Morocco" /></a>
+<a href="https://www.skatesurfmorocco.com"><img src="https://img.shields.io/badge/SkateSurf-Visit-201B3C?style=for-the-badge&logo=googlechrome&logoColor=AC8EFF" alt="SkateSurf Morocco" /></a>
+<a href="https://wavechasermorocco.com"><img src="https://img.shields.io/badge/Wave_Chaser-Visit-0A3228?style=for-the-badge&logo=googlechrome&logoColor=57E2AC" alt="Wave Chaser Morocco" /></a>
+<a href="https://tamrazen.com"><img src="https://img.shields.io/badge/Tamrazen-Visit-372719?style=for-the-badge&logo=googlechrome&logoColor=FBB66A" alt="Tamrazen" /></a>
+
+
+
+<sub>Client delivery at InticSolutions · WordPress & CMS · Web hosting & deployment · Dolibarr CRM</sub>
+</div>
+
+
+<div align="center">
+
+04 / ENGINEERING TOOLKIT
+<sub>Technologies I use across professional, academic, and personal work.</sub>
+
+
 
 BACKEND & LANGUAGES
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,java,c,js&theme=dark" alt="PHP Laravel Node.js Python Java C JavaScript" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,js,java,c&theme=dark&perline=7" alt="PHP Laravel Python Node.js JavaScript Java C" />
 
 
-FRONTEND & UI
-<img src="https://skillicons.dev/icons?i=vue,react,html,css,tailwind,bootstrap&theme=dark" alt="Vue React HTML CSS Tailwind Bootstrap" />
 
 
-DATA, TOOLS & INFRASTRUCTURE
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,docker,git,github,postman,linux&theme=dark" alt="PostgreSQL MySQL Redis Firebase Docker Git GitHub Postman Linux" />
+FRONTEND & INTERFACES
+<img src="https://skillicons.dev/icons?i=vue,html,css,tailwind,bootstrap,wordpress,figma&theme=dark&perline=7" alt="Vue HTML CSS Tailwind Bootstrap WordPress Figma" />
+
+
+
+
+DATA & INFRASTRUCTURE
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,docker,git,github,postman,linux&theme=dark&perline=9" alt="PostgreSQL MySQL Redis Firebase Docker Git GitHub Postman Linux" />
+
+
+
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Scikit--learn%20%E2%80%A2%20TensorFlow%20%E2%80%A2%20OpenCV-142A42?style=flat-square&labelColor=0F172A" alt="AI and ML stack" />
+<img src="https://img.shields.io/badge/ENGINEERING-REST%20APIs%20%E2%80%A2%20MVC%20%E2%80%A2%20SOLID-142A42?style=flat-square&labelColor=0F172A" alt="Engineering stack" />
+<img src="https://img.shields.io/badge/WORKFLOW-Jira%20%E2%80%A2%20Scrum%20%E2%80%A2%20Kanban-142A42?style=flat-square&labelColor=0F172A" alt="Workflow stack" />
 
 </div>
 
-Focus	Skills & tools
-Full-stack	Laravel, PHP, Vue.js, JavaScript, HTML5, CSS3, REST APIs, MVC, OOP, SOLID
-AI & data	Python, Scikit-learn, TensorFlow / Keras, OpenCV, Power BI, Statistics, BI
-Databases	PostgreSQL, MySQL, SQL Server, Redis, Firebase
-Platforms	WordPress, Dolibarr CRM, Web hosting, VPS, Docker
-Workflow	Git / GitHub, Postman, Jira, Trello, Scrum / Kanban, UML
 
-
-<sub>Tools shown reflect a combination of professional experience, academic projects and ongoing learning — not identical production experience with every tool.</sub>
-04 · What I'm exploring now
-AI / ML          ▸ Computer vision, CNNs, image classification & detection
-LLM engineering ▸ RAG workflows, embeddings, reranking & generative AI
-Engineering     ▸ Maintainable architectures, testing & containerized apps
-Data            ▸ Pipelines, analytics & practical business intelligence
-I enjoy connecting software engineering with AI and data to build solutions that are useful beyond a demo.
-05 · GitHub activity
 <div align="center">
 
-<a href="https://github.com/zakaryahari?tab=repositories">
-  <img width="98%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zakaryahari&bg_color=0f172a&color=67e8f9&line=818cf8&point=ffffff&area=true&area_color=155e75&hide_border=true" />
-</a>
+05 / CURRENTLY EXPLORING
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-CNNs%20%2F%20Classification-0E263B?style=for-the-badge&logo=opencv&logoColor=49E4EA" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/LLM%20ENGINEERING-RAG%20%2F%20Retrieval-171E3E?style=for-the-badge&logo=python&logoColor=AC8EFF" alt="LLM Engineering" />
+<img src="https://img.shields.io/badge/DATA-Analytics%20%2F%20Pipelines-102D2A?style=for-the-badge&logo=apacheairflow&logoColor=57E2AC" alt="Data Engineering" />
 
-<sub>Activity visualization is provided by a third-party service and may occasionally be unavailable.</sub>
 </div>
 
+
 <div align="center">
 
-<h3>Have a project in mind?</h3>
-
-<p><strong>I'm always interested in solving meaningful engineering problems and connecting with other builders.</strong></p>
-
-<a href="mailto:zakariahari42@gmail.com"><img alt="Let's talk" src="https://img.shields.io/badge/LET'S%20TALK-Send%20an%20email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+06 / GITHUB IN MOTION
+<img src="https://github-readme-stats.vercel.app/api?username=zakaryahari&show_icons=true&hide_border=true&bg_color=0B1529&title_color=49E4EA&icon_color=AC8EFF&text_color=D6E8F5&rank_icon=github" alt="GitHub statistics" width="76%" />
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaryahari&layout=compact&langs_count=8&hide_border=true&bg_color=0B1529&title_color=49E4EA&text_color=D6E8F5&card_width=540" alt="Languages used in public repositories" width="76%" />
 
-<sub>Built with curiosity, clean code, and a focus on impact · Zakarya Hari</sub>
-<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:4F46E5,55:155E75,100:0F172A" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakaryahari&bg_color=0b1529&color=bed5e7&line=49e4ea&point=ac8eff&area=true&area_color=1a5270&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
+
+<sub>Live activity cards are rendered by third-party services.</sub>
+</div>
+
+
+<div align="center">
+
+HAVE A PROJECT IN MIND?
+<a href="mailto:zakariahari42@gmail.com"><img src="https://img.shields.io/badge/LET'S%20BUILD%20TOGETHER-SEND%20AN%20EMAIL-49E4EA?style=for-the-badge&logo=gmail&logoColor=0B1529&labelColor=0B1529" alt="Email Zakarya" /></a>
+
+
+
+<img src="./assets/footer.svg" alt="Let's build something useful — Zakarya Hari" width="100%" />
 
 </div>
